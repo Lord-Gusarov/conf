@@ -12,7 +12,7 @@ sudo apt-get install git
 echo installed git
 
 touch ~/.gitconfig
-ln -f student.gitconfig ~/.gitconfig
+# ln -f student.gitconfig ~/.gitconfig
 echo linked git config
 
 mkdir -p ~/.config/nvim
